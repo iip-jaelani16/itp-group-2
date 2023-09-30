@@ -1,16 +1,3 @@
-# Tugas Kelompok ITP Group 2
-
-## Anggota Kelompok
-
-1.  -
-2.  -
-3.  -
-4.  -
-5.  -
-
-## Deskripsi
-
-Tugas ini dibuat untuk memenuhi tugas kelompok mata kuliah ITP. bahasa pemrograman JAVA
 
 ## Clone repo
 
